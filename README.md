@@ -1,7 +1,7 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
+- 👨🏽‍💻 - Eu me chamo [Ezequias Carvalho](https://www.linkedin.com/in/ezequias-carvalho);
+- 🚀 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
 - 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
 - 💸 - Constantemente temos vagas para:
 - - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
